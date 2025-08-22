@@ -1,0 +1,52 @@
+/** 
+* Paste one or more documents here
+*/
+{
+  "icons": {
+    "business": {
+      "deleted": false,
+      "data": [
+        "http://localhost:3000/icons/icon-1755071496309-142963536.svg"
+      ]
+    },
+    "office": {
+      "deleted": false,
+      "data": [
+        "http://localhost:3000/icons/icon-1755081949788-465950986.svg",
+        "http://localhost:3000/icons/icon-1755082989040-99418404.svg",
+        "http://localhost:3000/icons/icon-1755083023988-596526408.svg",
+        "http://localhost:3000/icons/icon-1755083023989-776735697.svg"
+      ]
+    },
+    "sport": {
+      "deleted": false,
+      "data": [
+        "http://localhost:3000/icons/icon-1755082177320-123999257.svg",
+        "http://localhost:3000/icons/icon-1755083128753-691450946.svg",
+        "http://localhost:3000/icons/icon-1755083128754-824202972.svg",
+        "http://localhost:3000/icons/icon-1755083128755-531630864.svg",
+        "http://localhost:3000/icons/icon-1755083128755-855176628.svg"
+      ]
+    },
+    "kitchen": {
+      "deleted": false,
+      "data": []
+    },
+    "biological gene": {
+      "deleted": false,
+      "data": []
+    },
+    "environmental protection": {
+      "deleted": false,
+      "data": []
+    },
+    "alien": {
+      "deleted": true,
+      "data": []
+    },
+    "technology": {
+      "deleted": true,
+      "data": []
+    }
+  }
+}
